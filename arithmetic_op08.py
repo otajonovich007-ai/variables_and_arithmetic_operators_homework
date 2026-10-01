@@ -5,3 +5,8 @@
 # c o'zgaruvchisini yarating va unga 7 butun son qiymatini bering
 
 # total o'zgaruvchisini yarating va total = (c*b)/a ni hisoblang
+a=11
+b=9
+c=7
+t=(c*b)/a
+print(t)
